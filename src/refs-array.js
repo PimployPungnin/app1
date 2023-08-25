@@ -7,7 +7,7 @@ export default function RefsArray(){
         ['JavaScrip',100],
         ['React',150],
         ['React Native',180],
-        ['Node.js',200]
+        ['Node.js',200],
         ['VS Code',120]
     ]
     
