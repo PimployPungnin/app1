@@ -1,5 +1,6 @@
-import React from 'react'
-import RefsFunc from './refs-func'
-export default function App() {
-    return <RefsFunc />
+import React from "react";
+import RefsArray from "./refs-array";
+
+export default function App(){
+    return <RefsArray/>
 }
