@@ -1,7 +1,7 @@
 import React from "react";
 import { userContext } from "./context";
 
-export default class Header extends React.Component{
+export default class Header2 extends React.Component{
     static contextType = userContext
 
     render() {
